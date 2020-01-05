@@ -1,0 +1,3 @@
+/Users/miroslavparapanov/workspace/CLion/SDPProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miroslavparapanov/workspace/CLion/SDPProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miroslavparapanov/workspace/CLion/SDPProject/cmake-build-debug/CMakeFiles/SDPProject.dir
